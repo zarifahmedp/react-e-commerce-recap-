@@ -1,0 +1,10 @@
+.x:hover{
+    text-decoration: underline;
+
+    background-color: lightcoral;
+    padding: 10px;
+    border-radius: 10px;
+}
+.x{
+    transition: 0.3s;
+}
